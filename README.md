@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🦊 [Gitlab profile](https://gitlab.com/kekel87)
+
+![https://github-readme-stats.vercel.app/api?username=kekel87&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=kekel87&show_icons=true&theme=dark) 
+
+![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kekel87&theme=dark)
+
 <!--
 **kekel87/kekel87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
