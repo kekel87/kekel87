@@ -12,6 +12,7 @@
 - [ ] [istanbuljs/issues/556](https://github.com/istanbuljs/istanbuljs/issues/556) AND [istanbuljs/pull/600](https://github.com/istanbuljs/istanbuljs/pull/600)
 - [ ] [fastapi/pull/2187](https://github.com/tiangolo/fastapi/pull/2187)
 - [ ] [ngrx/platform/issues/2751](https://github.com/ngrx/platform/issues/2751)
+- [ ] [angular/components/issues/4352](https://github.com/angular/components/issues/4352)
 
 <!--
 **kekel87/kekel87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
