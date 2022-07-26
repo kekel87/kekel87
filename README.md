@@ -13,6 +13,7 @@
 - [ ] [fastapi/pull/2187](https://github.com/tiangolo/fastapi/pull/2187)
 - [ ] [ngrx/platform/issues/2751](https://github.com/ngrx/platform/issues/2751)
 - [ ] [angular/components/issues/4352](https://github.com/angular/components/issues/4352)
+- [ ] [jasmine/jasmine/issues/1414](https://github.com/jasmine/jasmine/issues/1414)
 
 <!--
 **kekel87/kekel87** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
