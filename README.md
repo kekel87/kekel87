@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 🦊 [Gitlab profile](https://gitlab.com/kekel87)
+⚡ [Stackblitz]([https://gitlab.com/kekel87](https://stackblitz.com/@kekel87))
 
 ![https://github-readme-stats.vercel.app/api?username=kekel87&show_icons=true&theme=dark](https://github-readme-stats.vercel.app/api?username=kekel87&show_icons=true&theme=dark) 
 
